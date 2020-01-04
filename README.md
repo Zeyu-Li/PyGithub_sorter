@@ -5,17 +5,6 @@
 
 This project sorts a Github repository to alphabetical order
 
-The main python file is just the main function
-
-```python
-def main():
-
-    return 0
-
-if __name__ = "__main__":
-    main()
-```
-
 ## How to Use
 
 To use this program simply TODO: how it's used
