@@ -3,7 +3,9 @@
 
 ## About
 
-This project sorts a Github repository to alphabetical order
+This project sorts your public Github repositories to alphabetical order
+
+Enter the access token or username and password as strings separated by a comma and your user name in the code and run to get the desired output
 
 ## How to Use
 
